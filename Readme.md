@@ -35,21 +35,20 @@ To run this project locally, you'll need to have Python installed, along with th
 ## Clone the repository:
 ```bash
 git clone https://github.com/your-repo/diwali-sales-analysis.git
+```
 Install the required packages:
-
-
 pip install -r requirements.txt
 Open the Jupyter notebook and run the analysis:
 jupyter notebook Diwali_Sales_Analysis.ipynb
-```
+
 
 ## Project Structure
 ### The main components of this project are:
 
-Diwali_Sales_Analysis.ipynb: The Jupyter Notebook containing the analysis and visualizations.
-Diwali Sales Data.csv: The dataset used for the analysis.
-README.md: This file, providing an overview of the project.
-Analysis & Visualizations
+1. Diwali_Sales_Analysis.ipynb: The Jupyter Notebook containing the analysis and visualizations.
+2. Diwali Sales Data.csv: The dataset used for the analysis.
+3. README.md: This file, providing an overview of the project.
+4. Analysis & Visualizations
 
 ### The notebook performs the following steps:
 
