@@ -65,7 +65,7 @@ Analysis & Visualizations
 Bar charts, histograms, and heatmaps to visualize sales, product performance, and demographic analysis.
 Correlation matrix to explore relationships between features.
 
-##### Results
+**Results**
 From the analysis, the following insights were gathered:
 
 1. Top-selling products: The most popular products during Diwali.
@@ -73,10 +73,10 @@ From the analysis, the following insights were gathered:
 3. Sales trends: Identified the peak sales periods during the Diwali season.
 
 
-#### Conclusion
+**Conclusion**
 The Diwali Sales Analysis helped identify key trends in customer behavior and product performance during the Diwali season. This information can be leveraged to improve marketing strategies, inventory management, and sales forecasting for future festive periods.
 
-#### Contributing
+**Contributing**
 Contributions are welcome! If you'd like to improve the analysis or add new features, feel free to fork the repository and submit a pull request.
 
 ## Licence
