@@ -45,13 +45,13 @@ pip install -r requirements.txt
 jupyter notebook Diwali_Sales_Analysis.ipynb
 Project Structure
 
-##### The main components of this project are:
+**The main components of this project are:**
 **Diwali_Sales_Analysis.ipynb: The Jupyter Notebook containing the analysis and visualizations.**
 **Diwali Sales Data.csv: The dataset used for the analysis.**
 **README.md: This file, providing an overview of the project.**
 **Analysis & Visualizations**
 
-##### The notebook performs the following steps:
+**The notebook performs the following steps:**
 **Data Loading: The dataset is loaded into a Pandas DataFrame.**
 **Data Cleaning: Handling missing values and formatting the data.**
 **pd.isnull(df).sum() is used to check for missing values.**
